@@ -1,5 +1,5 @@
 # 参考用的,作为一个备忘-2026-02-04
-
+来源:[https://github.com/hfr1107/ysptp/tree/main]
 
 
 # iptv-go
